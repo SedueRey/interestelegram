@@ -1,3 +1,13 @@
+Interestelegram Game 
+====================
+
+Based on telegram-bot by yagop
+
+Documentation:
+https://docs.google.com/document/d/1PSrSZ1m2wFBu1btTgqo3L9OvoLtK5GqfAgNZZvbwY9s/edit?usp=sharing
+
+
+
 telegram-bot
 ============
 
