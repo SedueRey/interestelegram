@@ -6,7 +6,38 @@ Based on telegram-bot by yagop
 Documentation:
 https://docs.google.com/document/d/1PSrSZ1m2wFBu1btTgqo3L9OvoLtK5GqfAgNZZvbwY9s/edit?usp=sharing
 
+Interestelegram plugins:
 
+<table>
+   <thead>
+      <tr>
+         <td><strong>Name</strong></td>
+         <td><strong>Description</strong></td>
+         <td><strong>Usage</strong></td>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>file.lua</td>
+         <td>example plugin documentation</td>
+         <td>command: Command description</td>
+      </tr>
+   </tbody>
+</table>
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+OLD documentation
 
 telegram-bot
 ============
