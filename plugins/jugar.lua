@@ -26,6 +26,7 @@ return {
     description = "create new game", 
     usage = {
       "jugar interestelegram"
+  	},
     patterns = {
       "^jugar interestelegram$"
     }, 
